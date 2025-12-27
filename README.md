@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Nisarg Pendal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi, I'm Nisarg Pendal 
 
 
 ### DevOps Engineer | Cloud Infrastructure Specialist | Automation Enthusiast
