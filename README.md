@@ -16,7 +16,7 @@
 <a href="mailto:nisargpendal@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </td>
 <td align="center">
-<a href="https://nisargpendal.dev"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white"/></a>
+<a href="https://nisargpendal.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white"/></a>
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/📞-+91--9998268311-green?style=flat"/>
@@ -319,7 +319,7 @@ passion: GPU-first infrastructure for AI workloads & carbon-aware architecture
 </a>
 </td>
 <td align="center">
-<a href="https://nisargpendal.dev">
+<a href="https://nisargpendal.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 </td>
