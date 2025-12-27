@@ -55,32 +55,8 @@ passion: GPU-first infrastructure for AI workloads & carbon-aware architecture
 
 ---
 
-## 🎓 Professional Certifications
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/><br/>
-<sub><b>Associate</b></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/><br/>
-<sub><b>Certified</b></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Istio-Fundamentals-466BB0?style=for-the-badge&logo=istio&logoColor=white"/><br/>
-<sub><b>Certified</b></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Envoy-Gateway-AC6199?style=for-the-badge&logo=envoy-proxy&logoColor=white"/><br/>
-<sub><b>Fundamentals</b></sub>
-</td>
-</tr>
-</table>
-
-</div>
+🎓 Professional Certifications
+<div align="center"> <table> <tr> <td align="center" width="25%"> <a href="https://www.credly.com/badges/0c009f7b-6851-4f76-a551-ed1541f6edb7" target="_blank"> <img src="https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/> </a><br/> <sub><b>Associate</b></sub> </td> <td align="center" width="25%"> <a href="https://www.credly.com/badges/e03700ea-b3b3-498c-8da9-f910758738f4" target="_blank"> <img src="https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/> </a><br/> <sub><b>Certified</b></sub> </td> <td align="center" width="25%"> <a href="https://tetrate-academy.thinkific.com/certificates/gjmavbxfcs" target="_blank"> <img src="https://img.shields.io/badge/Istio-Fundamentals-466BB0?style=for-the-badge&logo=istio&logoColor=white"/> </a><br/> <sub><b>Certified</b></sub> </td> <td align="center" width="25%"> <a href="https://tetrate-academy.thinkific.com/certificates/vtckqhziyc" target="_blank"> <img src="https://img.shields.io/badge/Envoy-Gateway-AC6199?style=for-the-badge&logo=envoy-proxy&logoColor=white"/> </a><br/> <sub><b>Fundamentals</b></sub> </td> </tr> </table> </div>
 
 ---
 
