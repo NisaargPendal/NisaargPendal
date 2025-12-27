@@ -213,48 +213,6 @@ passion: GPU-first infrastructure for AI workloads & carbon-aware architecture
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top" style="border: 1px solid white; padding: 10px;">
-
-### HR Timesheet Automation
-**Automated Timesheet Generator**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/python--docx-2C5BB4?style=flat-square"/> <img src="https://img.shields.io/badge/Automation-FF6B35?style=flat-square"/>
-
-**Problem:** HR spending 4-5 hours on manual timesheet creation
-
-**Solution:** Automated generation with holiday tracking and leave integration
-
-**Impact:**
-- ✅ **4-5 hours → 15 minutes**
-- ✅ Zero copy-paste errors
-- ✅ Automatic holiday handling
-- ✅ Professional formatted output
-
-**[View Project →](https://github.com/NisaargPendal/TimeSheet-Generator)**
-
-</td>
-<td width="50%" valign="top" style="border: 1px solid white; padding: 10px;">
-
-### CloudFront Cache Automation
-**Website Update Simplification**
-
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/> <img src="https://img.shields.io/badge/AWS_CLI-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square&logo=amazon-cloudfront&logoColor=white"/> <img src="https://img.shields.io/badge/Automation-FF9800?style=flat-square"/>
-
-**Problem:** Non-technical users blocked by cache clearing complexity
-
-**Solution:** One-command cache invalidation script
-
-**Impact:**
-- ✅ **15 minutes → 30 seconds**
-- ✅ Client independence achieved
-- ✅ Smart defaults built-in
-- ✅ Plain English feedback
-
-**[View Project →](https://github.com/NisaargPendal/aws-webapp-sync-and-cache-management)**
-
-</td>
-</tr>
 </table>
 
 ---
