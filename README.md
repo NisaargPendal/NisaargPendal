@@ -258,20 +258,6 @@ passion: GPU-first infrastructure for AI workloads & carbon-aware architecture
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NisaargPendal&theme=github_dark&cache_seconds=86400)
-
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NisaargPendal&theme=github_dark&cache_seconds=86400)
-
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NisaargPendal&theme=github_dark&cache_seconds=86400)
-
-</div>
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
