@@ -232,7 +232,7 @@ passion: GPU-first infrastructure for AI workloads & carbon-aware architecture
 - ✅ Instant local transfers
 - ✅ Unified communication
 
-**[View Project →](https://github.com/NisaargPendal?tab=repositories)**
+**[View Project →](https://github.com/NisaargPendal/lets-chat-locally)**
 
 </td>
 </tr>
@@ -254,7 +254,7 @@ passion: GPU-first infrastructure for AI workloads & carbon-aware architecture
 - ✅ Automatic holiday handling
 - ✅ Professional formatted output
 
-**[View Project →](https://github.com/NisaargPendal)**
+**[View Project →](https://github.com/NisaargPendal/TimeSheet-Generator)**
 
 </td>
 <td width="50%" valign="top" style="border: 1px solid white; padding: 10px;">
@@ -274,7 +274,7 @@ passion: GPU-first infrastructure for AI workloads & carbon-aware architecture
 - ✅ Smart defaults built-in
 - ✅ Plain English feedback
 
-**[View Project →](https://github.com/NisaargPendal)**
+**[View Project →](https://github.com/NisaargPendal/aws-webapp-sync-and-cache-management)**
 
 </td>
 </tr>
