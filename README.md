@@ -41,11 +41,11 @@ role: Senior DevOps Engineer @ Rytumx
 experience: 5+ years in Cloud Infrastructure & Automation
 specialization: [AWS, Azure, Terraform, CI/CD, Industrial IoT]
 achievements:
-  - 💰 Cost Reduction: 60%
-  - 👥 Users Served: 1M+
-  - 🚀 Deployment Speed: 40% faster
-  - ✅ Reliability: 2% failure rate
-  - 🏭 Automation: 85-100% manual work eliminated
+  - Cost Reduction: 60%
+  - Users Served: 1M+
+  - Deployment Speed: 40% faster
+  - Reliability: 2% failure rate
+  - Automation: 85-100% manual work eliminated
 passion: GPU-first infrastructure for AI workloads & carbon-aware architecture
 ```
 
@@ -149,110 +149,7 @@ passion: GPU-first infrastructure for AI workloads & carbon-aware architecture
 
 ---
 
-## 💼 Enterprise Projects
-
-<table border="1" style="border: 2px solid white;">
-<tr>
-<td width="50%" valign="top" style="border: 1px solid white; padding: 10px;">
-
-### 🚀 GitLab CI/CD Migration
-**UK Logistics Company | 1M+ Users**
-
-<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/> <img src="https://img.shields.io/badge/ECS_Fargate-FF9900?style=flat-square&logo=amazon-ecs&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-
-**Challenge:** Failing Jenkins infrastructure blocking deployments for 1M+ users
-
-**Solution:** Transformed to GitLab CI/CD with parallel validation and serverless execution
-
-**Impact:**
-- ✅ **60%** infrastructure cost reduction
-- ✅ **40%** faster deployment times
-- ✅ Failure rate: **15% → 2%**
-- ✅ Zero-downtime migration
-
-</td>
-<td width="50%" valign="top" style="border: 1px solid white; padding: 10px;">
-
-### ⚡ Azure Microservices Migration
-**250+ Services | Black Friday Ready**
-
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white"/> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Functions-0078D4?style=flat-square&logo=azure-functions&logoColor=white"/>
-
-**Challenge:** Migrate 250+ microservices with zero downtime during peak season
-
-**Solution:** Three-tier architecture with modular Terraform and phased migration
-
-**Impact:**
-- ✅ **250+** microservices migrated
-- ✅ Multi-region deployment
-- ✅ Black Friday traffic handled
-- ✅ Zero-downtime strategy
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" style="border: 1px solid white; padding: 10px;">
-
-### 🏭 Industrial IoT EPA Compliance
-**Aluminum Recycling Plant**
-
-<img src="https://img.shields.io/badge/Azure_IoT_Hub-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"/> <img src="https://img.shields.io/badge/Windows_IoT-0078D6?style=flat-square&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/OPC_UA-009639?style=flat-square"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black"/>
-
-**Challenge:** Manual EPA reporting with compliance risks and data loss
-
-**Solution:** Edge computing with 30-day buffer and real-time monitoring
-
-**Impact:**
-- ✅ **100%** reporting automation
-- ✅ **85%** reduction in manual work
-- ✅ Zero data loss events
-- ✅ Predictive maintenance enabled
-
-</td>
-<td width="50%" valign="top" style="border: 1px solid white; padding: 10px;">
-
-### 🎯 AWS Cost Optimization
-**Drift Detection & Accountability**
-
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/> <img src="https://img.shields.io/badge/driftctl-000000?style=flat-square"/> <img src="https://img.shields.io/badge/Slack_API-4A154B?style=flat-square&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-
-**Challenge:** Invisible resource waste costing thousands monthly
-
-**Solution:** Automated drift detection with Slack notifications and social accountability
-
-**Impact:**
-- ✅ **50%** waste eliminated (month 1)
-- ✅ **$2K+** monthly savings identified
-- ✅ Real-time visibility
-- ✅ Executive-driven cleanup
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top" style="border: 1px solid white; padding: 10px;">
-
-### 🔧 AWS Image Builder Dynamic AMI System
-**Pioneered Production Implementation | Zero Documentation Available**
-
-<img src="https://img.shields.io/badge/AWS_Image_Builder-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Systems_Manager-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/boto3-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
-
-**Challenge:** Multi-customer dynamic AMI creation with no existing implementation examples
-
-**Solution:** Built reusable components with JSON profiles, SSM integration, and browser automation
-
-**Impact:**
-- ✅ Processes **hundreds** of AMI builds dynamically
-- ✅ Customer-specific configurations automated
-- ✅ Complex browser-based installations handled
-- ✅ First production implementation documented
-
-</td>
-</tr>
-</table>
-
----
-
-## 🌟 Open Source Projects
+## 🌟 Projects
 
 <table border="1" style="border: 2px solid white;">
 <tr>
@@ -273,7 +170,7 @@ passion: GPU-first infrastructure for AI workloads & carbon-aware architecture
 - ✅ **Zero** configuration errors
 - ✅ Supports complex nested structures
 
-**[View Project →](https://github.com/NisaargPendal)**
+**[View Project →](https://github.com/NisaargPendal/json_to_flat_converter)**
 
 </td>
 <td width="50%" valign="top" style="border: 1px solid white; padding: 10px;">
@@ -293,7 +190,7 @@ passion: GPU-first infrastructure for AI workloads & carbon-aware architecture
 - ✅ Enterprise features for SMBs
 - ✅ No IT team required
 
-**[View Project →](https://github.com/NisaargPendal)**
+**[View Project →](https://github.com/NisaargPendal/local-hrms)**
 
 </td>
 </tr>
@@ -315,7 +212,7 @@ passion: GPU-first infrastructure for AI workloads & carbon-aware architecture
 - ✅ Actionable recommendations
 - ✅ Instance-to-reservation mapping
 
-**[View Project →](https://github.com/NisaargPendal)**
+**[View Project →](https://github.com/NisaargPendal/Find_Reserved_instances_Mapping)**
 
 </td>
 <td width="50%" valign="top" style="border: 1px solid white; padding: 10px;">
@@ -335,7 +232,7 @@ passion: GPU-first infrastructure for AI workloads & carbon-aware architecture
 - ✅ Instant local transfers
 - ✅ Unified communication
 
-**[View Project →](https://github.com/NisaargPendal)**
+**[View Project →](https://github.com/NisaargPendal?tab=repositories)**
 
 </td>
 </tr>
