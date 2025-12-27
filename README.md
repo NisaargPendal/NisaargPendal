@@ -155,7 +155,7 @@ passion: GPU-first infrastructure for AI workloads & carbon-aware architecture
 <tr>
 <td width="50%" valign="top" style="border: 1px solid white; padding: 10px;">
 
-### 📦 JSON Flattener for Azure DevOps
+### JSON Flattener for Azure DevOps
 **Configuration Automation Tool**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/CLI-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/> <img src="https://img.shields.io/badge/GUI-FF6B6B?style=flat-square"/>
@@ -175,7 +175,7 @@ passion: GPU-first infrastructure for AI workloads & carbon-aware architecture
 </td>
 <td width="50%" valign="top" style="border: 1px solid white; padding: 10px;">
 
-### 🏢 OrangeHRM Docker Deployment
+### OrangeHRM Docker Deployment
 **Enterprise HRMS for SMBs**
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/HRMS-00897B?style=flat-square"/>
@@ -197,7 +197,7 @@ passion: GPU-first infrastructure for AI workloads & carbon-aware architecture
 <tr>
 <td width="50%" valign="top" style="border: 1px solid white; padding: 10px;">
 
-### 💰 AWS Reserved Instance Mapper
+### AWS Reserved Instance Mapper
 **Cost Optimization Visibility Tool**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/boto3-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Cost_Optimization-00C853?style=flat-square"/>
@@ -217,7 +217,7 @@ passion: GPU-first infrastructure for AI workloads & carbon-aware architecture
 </td>
 <td width="50%" valign="top" style="border: 1px solid white; padding: 10px;">
 
-### 💬 Local Network Chat App
+### Local Network Chat App
 **Team File Sharing System**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/HTTP_Server-009688?style=flat-square"/> <img src="https://img.shields.io/badge/Networking-4CAF50?style=flat-square"/>
@@ -239,7 +239,7 @@ passion: GPU-first infrastructure for AI workloads & carbon-aware architecture
 <tr>
 <td width="50%" valign="top" style="border: 1px solid white; padding: 10px;">
 
-### 📊 HR Timesheet Automation
+### HR Timesheet Automation
 **Automated Timesheet Generator**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/python--docx-2C5BB4?style=flat-square"/> <img src="https://img.shields.io/badge/Automation-FF6B35?style=flat-square"/>
@@ -259,7 +259,7 @@ passion: GPU-first infrastructure for AI workloads & carbon-aware architecture
 </td>
 <td width="50%" valign="top" style="border: 1px solid white; padding: 10px;">
 
-### 📋 CloudFront Cache Automation
+### CloudFront Cache Automation
 **Website Update Simplification**
 
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/> <img src="https://img.shields.io/badge/AWS_CLI-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square&logo=amazon-cloudfront&logoColor=white"/> <img src="https://img.shields.io/badge/Automation-FF9800?style=flat-square"/>
