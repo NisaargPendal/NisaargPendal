@@ -306,51 +306,6 @@ passion: GPU-first infrastructure for AI workloads & carbon-aware architecture
 
 ---
 
-## 🎯 Core Strengths
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 🏗️ Architecture
-Cloud-Native Design<br/>
-Microservices<br/>
-Multi-Region HA<br/>
-Serverless
-
-</td>
-<td align="center" width="25%">
-
-### ⚙️ Automation
-Infrastructure as Code<br/>
-CI/CD Pipelines<br/>
-GitOps<br/>
-Configuration Management
-
-</td>
-<td align="center" width="25%">
-
-### 💰 Optimization
-Cost Reduction<br/>
-Performance Tuning<br/>
-Resource Right-Sizing<br/>
-Waste Elimination
-
-</td>
-<td align="center" width="25%">
-
-### 🚀 Migration
-Zero-Downtime<br/>
-Large-Scale<br/>
-Legacy Modernization<br/>
-Cross-Platform
-
-</td>
-</tr>
-</table>
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
