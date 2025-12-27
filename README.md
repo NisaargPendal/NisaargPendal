@@ -282,28 +282,16 @@ passion: GPU-first infrastructure for AI workloads & carbon-aware architecture
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NisaargPendal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_color=ffffff"/>
-</td>
-<td align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NisaargPendal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_color=ffffff"/>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NisaargPendal&theme=tokyonight&hide_border=true&border_color=ffffff"/>
-</td>
-</tr>
-</table>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NisaargPendal&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NisaargPendal&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NisaargPendal&theme=github_dark)
 
 </div>
-
 ---
 
 ## 📫 Let's Connect!
