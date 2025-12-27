@@ -90,7 +90,7 @@ passion: GPU-first infrastructure for AI workloads & carbon-aware architecture
 <tr>
 <td valign="top" width="33%">
 
-### ☁️ Cloud & Infrastructure
+### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
@@ -100,7 +100,7 @@ passion: GPU-first infrastructure for AI workloads & carbon-aware architecture
 </td>
 <td valign="top" width="33%">
 
-### 🔄 CI/CD & Automation
+### CI/CD & Automation
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -109,7 +109,7 @@ passion: GPU-first infrastructure for AI workloads & carbon-aware architecture
 </td>
 <td valign="top" width="33%">
 
-### 💻 Languages & Tools
+### Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
@@ -120,7 +120,7 @@ passion: GPU-first infrastructure for AI workloads & carbon-aware architecture
 <tr>
 <td valign="top" width="33%">
 
-### 🗄️ Databases
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -129,7 +129,7 @@ passion: GPU-first infrastructure for AI workloads & carbon-aware architecture
 </td>
 <td valign="top" width="33%">
 
-### 📊 Monitoring & Security
+### Monitoring & Security
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -137,7 +137,7 @@ passion: GPU-first infrastructure for AI workloads & carbon-aware architecture
 </td>
 <td valign="top" width="33%">
 
-### ☁️ AWS Services
+### AWS Services
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
